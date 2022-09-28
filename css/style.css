@@ -170,6 +170,8 @@ slider .middletext img{
 
 newsbar{
     height: 350px;  padding-top: 10px;
+    padding-bottom: 10px !important;
+    margin-bottom: 15px;
 }
 newsbar div{
      padding: 0px; height: inherit; overflow: hidden;
@@ -184,7 +186,7 @@ newsbar .middletext img{
 
 
 newsbar .newsleftdiv{
-    margin-top: 30px;
+    /* margin-top: 30px; */
 }
 newsbar .newsleftdiv .imagetext img{
     
@@ -333,3 +335,131 @@ newsbar .newsleftdiv .imagetext img{
 
     border-color: white !important;
 }
+
+.leftside  .tab-pane{
+    overflow-y: scroll;
+}
+.tabbable .nav-item  a {
+    color: #0a0c0e; font-weight: 600;
+}
+.tabbable .nav-item .active{
+    color: #87A9CF;  
+    border-bottom: #435de1 solid 2px;
+}
+
+section2 .card{
+    height: 300px;  
+    overflow: hidden;
+    margin-bottom: 5px;
+}
+section2 .card .row{
+    padding: 0px;
+    margin: 0px;
+}
+section2 .card img{
+width: inherit;
+}
+
+section2 .card .img_card{
+    padding-right: 7px;
+    
+}
+
+section2 .bannercard {
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 30px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+ 
+section2 .header{
+    font-size: 18px;
+    padding: 0 0 10px  0;
+    border-bottom: 1px solid #878ca3;
+}
+
+section2 .authorcard{
+    font-size: 11px;
+}
+section2 .briefcard{
+    padding-top: 10px;
+}
+section2 .leftside {
+    background-color: #222127;
+}
+
+section2 .leftside .row{
+    margin: 0px;
+}
+
+section2 .leftside .cardx{
+   
+}
+
+section2 .leftside .cardx .header1{
+   color: #fff;
+   text-align: center; padding: 10px;
+   font-size: 20px; 
+   border-bottom: 1px solid  #39c79a;
+}
+
+
+section2 .leftside .cardx .header2{
+    color: #fff;
+    text-align: center; padding: 10px;
+    font-size: 20px; 
+    
+ }
+
+ section2 .leftside .cardx .spreviewcard{
+    width: inherit;
+    border-bottom: 5px solid red;
+ }
+ 
+ 
+
+
+ section2 .leftside .cardx .spreviewcard .bannercard {
+    position: absolute;
+    margin-top: 225px;
+    margin-left: 290px;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 400;
+}
+
+
+section2 .leftside .cardx .textpreviewcard .bannercard {
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 20px;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 200;  
+}
+
+ 
+section2 .leftside .cardx p {
+    
+    color: #fff !important;
+    margin-left: 17px;
+    
+}
+
+
+
+ .hj{
+    color: #fff; margin-top: 80px;
+    margin-left: 20px;
+ }
+ 
+ .hj2{
+    color: #fff; margin-top: 10px;
+    margin-left: 20px;
+    font-weight: 100 !important;
+ }
+ 
+
+ 
