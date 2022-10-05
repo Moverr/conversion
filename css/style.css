@@ -448,8 +448,23 @@ section2 .leftside .cardx p {
     
 }
 
+section2 .leftside .cardx ul{
+
+}
+
+section2 .leftside .cardx ul li{ list-style: none;
+    color: #fff; font-size: 11px;
+    padding: 20px 0px 10px 0px;
+    border-bottom: 1px solid #545454;
+}
+
+section2 .leftside .cardx ul li .briefcard{  padding: 0px;
+}
 
 
+section2 .leftside .cardx ul li h1{
+    font-size: 11px; border-bottom: none; padding-bottom: 0px;
+}
  .hj{
     color: #fff; margin-top: 80px;
     margin-left: 20px;
@@ -461,5 +476,11 @@ section2 .leftside .cardx p {
     font-weight: 100 !important;
  }
  
-
+.banner-div{
+    height: 150px;
+}
  
+.squaurecard{
+    width: 205px;
+    height: 130px; float: left; margin: 10px;
+}
