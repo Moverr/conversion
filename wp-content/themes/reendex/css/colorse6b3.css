@@ -1,0 +1,1626 @@
+/* ======== COLORS ========= */
+  
+/*1.RED*/
+
+[data-color="red"] .main-menu,
+[data-color="red"] .search-icon-btn,
+[data-color="red"] .breaking-ribbon,
+[data-color="red"] .flexslider li h3,
+[data-color="red"] #sidebar-newsletter button,
+[data-color="red"] #newsletter button,
+[data-color="red"] #time,
+[data-color="red"] .btn-primary:hover,
+[data-color="red"] .sponsored,
+[data-color="red"] .sponsored-big,
+[data-color="red"] .carousel-title,
+[data-color="red"] .play-icon,
+[data-color="red"] .title-style05.style-01,
+[data-color="red"] .title-left.underline04::before,
+[data-color="red"] .title-left.underline03::before, 
+[data-color="red"] .page-numbers  span.current,
+[data-color="red"] .read-more:hover:before,
+[data-color="red"] #nav-below-main ul li a:hover:before,
+[data-color="red"] #nav-below-main ul li.current-menu-item a:before,
+[data-color="red"] .btn:hover,
+[data-color="red"] .btn-info.focus, .btn-info:focus,
+[data-color="red"] .btn-default,
+[data-color="red"] .weather-city,
+[data-color="red"] .calendar_wrap caption,
+[data-color="red"] .icon-sub-menu .up-icon,
+[data-color="red"] .tvbanner-area .bg-1,
+[data-color="red"].demo-color,
+[data-color="red"] #footer .widget-title::before,
+[data-color="red"] .mega-menu-wrapper .widget-title::before,
+[data-color="red"] .header-search-box,
+[data-color="red"] .widget-search .search-submit,
+[data-color="red"] #wprmenu_menu .wprmenu_icon_par.wprmenu_par_opened,
+[data-color="red"] .bg-1,
+[data-color="red"] .section-highlighs-wrapper span a,
+[data-color="red"] .section-header h2::after,
+[data-color="red"] .section-highlighs-wrapper span a::before,
+[data-color="red"] .contact-formarea input,
+[data-color="red"] #sidebar-newsletter .sidebar-newsletter-inner h5,
+[data-color="red"] #sidebar-newsletter .sidebar-newsletter-inner h5::before,
+[data-color="red"] .sidebar-social-icons .sidebar-social-icons-inner h5::before,
+[data-color="red"] .twitter-feed-area .twitter-feed-inner h5,
+[data-color="red"] .twitter-feed-area .twitter-feed-inner h5::before,
+[data-color="red"] .container-fluid.header-style-five .main-menu ul.mega-main-menu::before,
+[data-color="red"] .video-promo-item .section-highlight-inner::before,
+[data-color="red"] .promo-item .section-highlight-inner a::before,
+[data-color="red"] .promo-item .section-highlight-inner a,
+[data-color="red"] .video-promo-item .section-highlight-inner,
+[data-color="red"] .single input[type=submit]:hover,
+[data-color="red"] .live-updates .live-title {
+	background-color: #d4000e;
+}
+[data-color="red"] .title-style02,
+[data-color="red"] .title-style02-light,
+[data-color="red"] .blockquote_style02,
+[data-color="red"] .instagram-content .instagram-subtitle {
+	border-left: 3px solid #d4000e;
+}
+[data-color="red"] .title-style02:dir(rtl),
+[data-color="red"] .title-style02-light:dir(rtl),
+[data-color="red"] .blockquote_style02:dir(rtl),
+[data-color="red"] .instagram-content .instagram-subtitle:dir(rtl) {
+	border-right: 3px solid #d4000e;
+}
+[data-color="red"] .section-highlighs,
+[data-color="red"] .sidebar-newsletter-form,
+[data-color="red"] .twitter-feed-wrapper,
+[data-color="red"] .video-promo-content,
+[data-color="red"] .promo-content {
+	border-top: 6px solid #d4000e !important;
+}
+[data-color="red"] .post-style-3 .entry-header .entry-title,
+[data-color="red"] .section-header-left .section-subtitle {
+	border-left: 6px solid #d4000e !important;
+}
+[data-color="red"] .post-style-3 .entry-header .entry-title:dir(rtl),
+[data-color="red"] .section-header-left .section-subtitle:dir(rtl) {
+	border-right: 6px solid #d4000e !important;
+}
+[data-color="red"] .news-gallery-slider .post-content > a {
+	border-left: 2px solid #d4000e !important;
+}
+[data-color="red"] .news-gallery-slider .post-content > a:dir(rtl) {
+	border-right: 2px solid #d4000e !important;
+}
+[data-color="red"] .currentLink,
+[data-color="red"] .title-style01>h3,
+[data-color="red"] .style-02 span,
+[data-color="red"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #d4000e;
+}
+[data-color="red"] .contact-us a,
+[data-color="red"] .content-wrap a,
+[data-color="red"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="red"] #nav-below-main ul li a:hover,
+[data-color="red"] #nav-below-main ul li.current-menu-item a,
+[data-color="red"] a:hover,
+[data-color="red"] .hour,
+[data-color="red"] .date,
+[data-color="red"] .day,
+[data-color="red"] .time,
+[data-color="red"] .media-body span,
+[data-color="red"] .header-logo h1,
+[data-color="red"] .header-logo h1 a,
+[data-color="red"] .dropdown-menu a:hover,
+[data-color="red"] .read-more:hover,
+[data-color="red"] .blockquote_style01::before,
+[data-color="red"] .contact-us i,
+[data-color="red"] .currency h4,
+[data-color="red"] .square10,
+[data-color="red"] .square11,
+[data-color="red"] #cdate,
+[data-color="red"] .contact-email a,
+[data-color="red"] .entry-footer span a,
+[data-color="red"] .ticker-title a,
+[data-color="red"] .dot,
+[data-color="red"] .promo-item .promo-content a:hover {
+	color: #d4000e;
+}
+[data-color="red"] .item .item-content a:hover,
+[data-color="red"] .item-content p a:hover,
+[data-color="red"] .events p a:hover,
+[data-color="red"] .small-gallery .post-content p a:hover,
+[data-color="red"] .sidebar-block .sidebar-content a:hover,
+[data-color="red"] .local-weather-title,
+[data-color="red"] .sidebar-post.light p a:hover,
+[data-color="red"] .list-mark-1 li a:hover,
+[data-color="red"] .external-link p:hover,
+[data-color="red"] .container-full .item-content h4 a:hover,
+[data-color="red"] .contact-formarea input:hover,
+[data-color="red"] .promo-item .promo-content .read-more:hover,
+[data-color="red"] .video-promo-item .video-promo-content .read-more:hover {
+	color: #d4000e !important;
+}
+[data-color="red"] .main_menu ul > li.current-menu-item > a,
+[data-color="red"] .main_menu ul > li.current-page-ancestor > a {
+	background-color: #be000c !important;
+}
+[data-color="red"] .sponsored:hover,
+[data-color="red"] .sponsored-big:hover,
+[data-color="red"] #sidebar-newsletter button:hover,
+[data-color="red"] .main-menu .main_menu ul>li>a:hover,
+[data-color="red"] .nav .open>a, 
+[data-color="red"] .nav .open>a:focus,
+[data-color="red"] .nav .open>a:hover,
+[data-color="red"] .carousel-title:hover,
+[data-color="red"] .pagination > .active > a:hover,
+[data-color="red"] .btn-default:hover,
+[data-color="red"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="red"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="red"] .nav-pills > li.active > a,
+[data-color="red"] .nav-pills > li.active > a:focus,
+[data-color="red"] .nav-pills > li.active > a:hover,
+[data-color="red"] .dropdown-menu > li > a:hover,
+[data-color="red"] .block-title-1,
+[data-color="red"] .block-title-2,
+[data-color="red"]  .main_menu ul>li>a:focus,
+[data-color="red"] .main_menu ul>li>a:hover {
+	color: #fff;
+	background-color: #e4000d;
+}
+
+/*2.BLUE*/
+
+[data-color="blue"] .navbar .main-menu,
+[data-color="blue"] .search-icon-btn,
+[data-color="blue"] .breaking-ribbon,
+[data-color="blue"] .flexslider li h3,
+[data-color="blue"] #sidebar-newsletter button,
+[data-color="blue"] #newsletter button,
+[data-color="blue"] #time,
+[data-color="blue"] .btn-primary:hover,
+[data-color="blue"] .sponsored,
+[data-color="blue"] .sponsored-big,
+[data-color="blue"] .carousel-title,
+[data-color="blue"] .play-icon,
+[data-color="blue"] .title-style05.style-01,
+[data-color="blue"] .title-left.underline04::before,
+[data-color="blue"] .title-left.underline03::before, 
+[data-color="blue"] .page-numbers  span.current,
+[data-color="blue"] .read-more:hover:before,
+[data-color="blue"] #nav-below-main ul li a:hover:before,
+[data-color="blue"] #nav-below-main ul li.current-menu-item a:before,
+[data-color="blue"] .btn:hover,
+[data-color="blue"] .btn-info.focus, .btn-info:focus,
+[data-color="blue"] .btn-default,
+[data-color="blue"] .weather-city,
+[data-color="blue"] .calendar_wrap caption,
+[data-color="blue"] .icon-sub-menu .up-icon,
+[data-color="blue"] .tvbanner-area .bg-1,
+[data-color="blue"].demo-color,
+[data-color="blue"] #footer .widget-title::before,
+[data-color="blue"] .mega-menu-wrapper .widget-title::before,
+[data-color="blue"] .header-search-box,
+[data-color="blue"] .widget-search .search-submit,
+[data-color="blue"] #wprmenu_menu .wprmenu_icon_par.wprmenu_par_opened,
+[data-color="blue"] .bg-1,
+[data-color="blue"] .section-highlighs-wrapper span a,
+[data-color="blue"] .section-header h2::after,
+[data-color="blue"] .section-highlighs-wrapper span a::before,
+[data-color="blue"] .contact-formarea input,
+[data-color="blue"] #sidebar-newsletter .sidebar-newsletter-inner h5,
+[data-color="blue"] #sidebar-newsletter .sidebar-newsletter-inner h5::before,
+[data-color="blue"] .sidebar-social-icons .sidebar-social-icons-inner h5::before,
+[data-color="blue"] .twitter-feed-area .twitter-feed-inner h5,
+[data-color="blue"] .twitter-feed-area .twitter-feed-inner h5::before,
+[data-color="blue"] .container-fluid.header-style-five .main-menu ul.mega-main-menu::before,
+[data-color="blue"] .video-promo-item .section-highlight-inner::before,
+[data-color="blue"] .promo-item .section-highlight-inner a::before,
+[data-color="blue"] .promo-item .section-highlight-inner a,
+[data-color="blue"] .video-promo-item .section-highlight-inner,
+[data-color="blue"] .single input[type=submit]:hover,
+[data-color="blue"] .live-updates .live-title {
+	background-color: #40a9ff;
+}
+[data-color="blue"] .title-style02,
+[data-color="blue"] .title-style02-light,
+[data-color="blue"] .blockquote_style02,
+[data-color="blue"] .instagram-content .instagram-subtitle {
+	border-left: 3px solid #40a9ff;
+}
+[data-color="blue"] .title-style02:dir(rtl),
+[data-color="blue"] .title-style02-light:dir(rtl),
+[data-color="blue"] .blockquote_style02:dir(rtl),
+[data-color="blue"] .instagram-content .instagram-subtitle:dir(rtl) {
+	border-right: 3px solid #40a9ff;
+}
+[data-color="blue"] .section-highlighs,
+[data-color="blue"] .sidebar-newsletter-form,
+[data-color="blue"] .twitter-feed-wrapper,
+[data-color="blue"] .video-promo-content,
+[data-color="blue"] .promo-content {
+	border-top: 6px solid #40a9ff !important;
+}
+[data-color="blue"] .post-style-3 .entry-header .entry-title,
+[data-color="blue"] .section-header-left .section-subtitle {
+	border-left: 6px solid #40a9ff !important;
+}
+[data-color="blue"] .post-style-3 .entry-header .entry-title:dir(rtl),
+[data-color="blue"] .section-header-left .section-subtitle:dir(rtl) {
+	border-right: 6px solid #40a9ff !important;
+}
+[data-color="blue"] .news-gallery-slider .post-content > a {
+	border-left: 2px solid #40a9ff !important;
+}
+[data-color="blue"] .news-gallery-slider .post-content > a:dir(rtl) {
+	border-right: 2px solid #40a9ff !important;
+}
+[data-color="blue"] .currentLink,
+[data-color="blue"] .title-style01>h3,
+[data-color="blue"] .style-02 span,
+[data-color="blue"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #40a9ff;
+}
+[data-color="blue"] .contact-us a,
+[data-color="blue"] .content-wrap a,
+[data-color="blue"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="blue"] #nav-below-main ul li a:hover,
+[data-color="blue"] #nav-below-main ul li.current-menu-item a,
+[data-color="blue"] a:hover,
+[data-color="blue"] .hour,
+[data-color="blue"] .date,
+[data-color="blue"] .day,
+[data-color="blue"] .time,
+[data-color="blue"] .media-body span,
+[data-color="blue"] .header-logo h1,
+[data-color="blue"] .header-logo h1 a,
+[data-color="blue"] .dropdown-menu a:hover,
+[data-color="blue"] .read-more:hover,
+[data-color="blue"] .blockquote_style01::before,
+[data-color="blue"] .contact-us i,
+[data-color="blue"] .currency h4,
+[data-color="blue"] .square10,
+[data-color="blue"] .square11,
+[data-color="blue"] #cdate,
+[data-color="blue"] .contact-email a,
+[data-color="blue"] .entry-footer span a,
+[data-color="blue"] .ticker-title a,
+[data-color="blue"] .dot,
+[data-color="blue"] .promo-item .promo-content a:hover {
+	color: #40a9ff;
+}
+[data-color="blue"] .item .item-content a:hover,
+[data-color="blue"] .item-content p a:hover,
+[data-color="blue"] .events p a:hover,
+[data-color="blue"] .small-gallery .post-content p a:hover,
+[data-color="blue"] .sidebar-block .sidebar-content a:hover,
+[data-color="blue"] .sidebar-post.light p a:hover,
+[data-color="blue"] .list-mark-1 li a:hover,
+[data-color="blue"] .external-link p:hover,
+[data-color="blue"] .container-full .item-content h4 a:hover,
+[data-color="blue"] .contact-formarea input:hover,
+[data-color="blue"] .promo-item .promo-content .read-more:hover,
+[data-color="blue"] .video-promo-item .video-promo-content .read-more:hover {
+	color: #40a9ff !important;
+}
+[data-color="blue"] .main_menu ul > li.current-menu-item > a,
+[data-color="blue"] .main_menu ul > li.current-page-ancestor > a {
+	background-color: #3998e5 !important;
+}
+[data-color="blue"] .sponsored:hover,
+[data-color="blue"] .sponsored-big:hover,
+[data-color="blue"] #sidebar-newsletter button:hover,
+[data-color="blue"] .main-menu .nav>li>a:hover,
+[data-color="blue"] .nav .open>a, 
+[data-color="blue"] .nav .open>a:focus,
+[data-color="blue"] .nav .open>a:hover,
+[data-color="blue"] .carousel-title:hover,
+[data-color="blue"] .pagination > .active > a:hover,
+[data-color="blue"] .btn-default:hover,
+[data-color="blue"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="blue"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="blue"] .nav-pills > li.active > a,
+[data-color="blue"] .nav-pills > li.active > a:focus,
+[data-color="blue"] .nav-pills > li.active > a:hover,
+[data-color="blue"] .dropdown-menu > li > a:hover,
+[data-color="blue"] .block-title-1, 
+[data-color="blue"] .block-title-2,
+[data-color="blue"] .main_menu ul>li>a:focus,
+[data-color="blue"] .main_menu ul>li>a:hover {
+	color: #fff;
+	background-color: #53b1ff !important;
+}
+
+/*3.DARK-BLUE*/
+
+[data-color="dark-blue"] .main-menu,
+[data-color="dark-blue"] .search-icon-btn,
+[data-color="dark-blue"] .breaking-ribbon,
+[data-color="dark-blue"] .flexslider li h3,
+[data-color="dark-blue"] #sidebar-newsletter button,
+[data-color="dark-blue"] #newsletter button,
+[data-color="dark-blue"] #time,
+[data-color="dark-blue"] .btn-primary:hover,
+[data-color="dark-blue"] .sponsored,
+[data-color="dark-blue"] .sponsored-big,
+[data-color="dark-blue"] .carousel-title,
+[data-color="dark-blue"] .play-icon,
+[data-color="dark-blue"] .title-style05.style-01,
+[data-color="dark-blue"] .title-left.underline04::before,
+[data-color="dark-blue"] .title-left.underline03::before, 
+[data-color="dark-blue"] .page-numbers  span.current,
+[data-color="dark-blue"] .read-more:hover:before,
+[data-color="dark-blue"] #nav-below-main ul li a:hover:before,
+[data-color="dark-blue"] #nav-below-main ul li.current-menu-item a:before,
+[data-color="dark-blue"] .btn:hover,
+[data-color="dark-blue"] .btn-info.focus, .btn-info:focus,
+[data-color="dark-blue"] .btn-default,
+[data-color="dark-blue"] .weather-city,
+[data-color="dark-blue"] .calendar_wrap caption,
+[data-color="dark-blue"] .icon-sub-menu .up-icon,
+[data-color="dark-blue"] .tvbanner-area .bg-1,
+[data-color="dark-blue"].demo-color,
+[data-color="dark-blue"] #footer .widget-title::before,
+[data-color="dark-blue"] .mega-menu-wrapper .widget-title::before,
+[data-color="dark-blue"] .header-search-box,
+[data-color="dark-blue"] .widget-search .search-submit,
+[data-color="dark-blue"] #wprmenu_menu .wprmenu_icon_par.wprmenu_par_opened,
+[data-color="dark-blue"] .bg-1,
+[data-color="dark-blue"] .section-highlighs-wrapper span a,
+[data-color="dark-blue"] .section-header h2::after,
+[data-color="dark-blue"] .section-highlighs-wrapper span a::before,
+[data-color="dark-blue"] .contact-formarea input,
+[data-color="dark-blue"] #sidebar-newsletter .sidebar-newsletter-inner h5,
+[data-color="dark-blue"] #sidebar-newsletter .sidebar-newsletter-inner h5::before,
+[data-color="dark-blue"] .sidebar-social-icons .sidebar-social-icons-inner h5::before,
+[data-color="dark-blue"] .twitter-feed-area .twitter-feed-inner h5,
+[data-color="dark-blue"] .twitter-feed-area .twitter-feed-inner h5::before,
+[data-color="dark-blue"] .container-fluid.header-style-five .main-menu ul.mega-main-menu::before,
+[data-color="dark-blue"] .video-promo-item .section-highlight-inner::before,
+[data-color="dark-blue"] .promo-item .section-highlight-inner a::before,
+[data-color="dark-blue"] .promo-item .section-highlight-inner a,
+[data-color="dark-blue"] .video-promo-item .section-highlight-inner,
+[data-color="dark-blue"] .single input[type=submit]:hover,
+[data-color="dark-blue"] .live-updates .live-title {
+	background-color: #00469a;
+}
+[data-color="dark-blue"] .title-style02,
+[data-color="dark-blue"] .title-style02-light,
+[data-color="dark-blue"] .blockquote_style02,
+[data-color="dark-blue"] .instagram-content .instagram-subtitle {
+	border-left: 3px solid #00469a;
+}
+[data-color="dark-blue"] .title-style02:dir(rtl),
+[data-color="dark-blue"] .title-style02-light:dir(rtl),
+[data-color="dark-blue"] .blockquote_style02:dir(rtl),
+[data-color="dark-blue"] .instagram-content .instagram-subtitle:dir(rtl) {
+	border-right: 3px solid #00469a;
+}
+[data-color="dark-blue"] .section-highlighs,
+[data-color="dark-blue"] .sidebar-newsletter-form,
+[data-color="dark-blue"] .twitter-feed-wrapper,
+[data-color="dark-blue"] .video-promo-content,
+[data-color="dark-blue"] .promo-content {
+	border-top: 6px solid #00469a !important;
+}
+[data-color="dark-blue"] .post-style-3 .entry-header .entry-title,
+[data-color="dark-blue"] .section-header-left .section-subtitle {
+	border-left: 6px solid #00469a !important;
+}
+[data-color="dark-blue"] .post-style-3 .entry-header .entry-title:dir(rtl),
+[data-color="dark-blue"] .section-header-left .section-subtitle:dir(rtl) {
+	border-right: 6px solid #00469a !important;
+}
+[data-color="dark-blue"] .news-gallery-slider .post-content > a {
+	border-left: 2px solid #00469a !important;
+}
+[data-color="dark-blue"] .news-gallery-slider .post-content > a:dir(rtl) {
+	border-right: 2px solid #00469a !important;
+}
+[data-color="dark-blue"] .currentLink,
+[data-color="dark-blue"] .title-style01>h3,
+[data-color="dark-blue"] .style-02 span,
+[data-color="dark-blue"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #00469a;
+}
+[data-color="dark-blue"] .contact-us a,
+[data-color="dark-blue"] .content-wrap a,
+[data-color="dark-blue"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="dark-blue"] #nav-below-main ul li a:hover,
+[data-color="dark-blue"] #nav-below-main ul li.current-menu-item a,
+[data-color="dark-blue"] a:hover,
+[data-color="dark-blue"] .hour,
+[data-color="dark-blue"] .date,
+[data-color="dark-blue"] .day,
+[data-color="dark-blue"] .time,
+[data-color="dark-blue"] .media-body span,
+[data-color="dark-blue"] .header-logo h1,
+[data-color="dark-blue"] .header-logo h1 a,
+[data-color="dark-blue"] .dropdown-menu a:hover,
+[data-color="dark-blue"] .read-more:hover,
+[data-color="dark-blue"] .blockquote_style01::before,
+[data-color="dark-blue"] .contact-us i,
+[data-color="dark-blue"] .currency h4,
+[data-color="dark-blue"] .square10,
+[data-color="dark-blue"] .square11,
+[data-color="dark-blue"] #cdate,
+[data-color="dark-blue"] .contact-email a,
+[data-color="dark-blue"] .entry-footer span a,
+[data-color="dark-blue"] .ticker-title a,
+[data-color="dark-blue"] .dot,
+[data-color="dark-blue"] .promo-item .promo-content a:hover {
+	color: #00469a;
+}
+[data-color="dark-blue"] .item .item-content a:hover,
+[data-color="dark-blue"] .item-content p a:hover,
+[data-color="dark-blue"] .events p a:hover,
+[data-color="dark-blue"] .small-gallery .post-content p a:hover,
+[data-color="dark-blue"] .sidebar-block .sidebar-content a:hover,
+[data-color="dark-blue"] .sidebar-post.light p a:hover,
+[data-color="dark-blue"] .list-mark-1 li a:hover,
+[data-color="dark-blue"] .external-link p:hover,
+[data-color="dark-blue"] .container-full .item-content h4 a:hover,
+[data-color="dark-blue"] .contact-formarea input:hover,
+[data-color="dark-blue"] .promo-item .promo-content .read-more:hover,
+[data-color="dark-blue"] .video-promo-item .video-promo-content .read-more:hover {
+	color: #00469a !important;
+}
+[data-color="dark-blue"] .main_menu ul > li.current-menu-item > a,
+[data-color="dark-blue"] .main_menu ul > li.current-page-ancestor > a {
+	background-color: #003f8a !important;
+}
+[data-color="dark-blue"] .sponsored:hover,
+[data-color="dark-blue"] .sponsored-big:hover,
+[data-color="dark-blue"] #sidebar-newsletter button:hover,
+[data-color="dark-blue"] .main-menu .nav>li>a:hover,
+[data-color="dark-blue"] .nav .open>a, 
+[data-color="dark-blue"] .nav .open>a:focus,
+[data-color="dark-blue"] .nav .open>a:hover,
+[data-color="dark-blue"] .carousel-title:hover,
+[data-color="dark-blue"] .pagination > .active > a:hover,
+[data-color="dark-blue"] .btn-default:hover,
+[data-color="dark-blue"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="dark-blue"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="dark-blue"] .nav-pills > li.active > a,
+[data-color="dark-blue"] .nav-pills > li.active > a:focus,
+[data-color="dark-blue"] .nav-pills > li.active > a:hover,
+[data-color="dark-blue"] .dropdown-menu > li > a:hover,
+[data-color="dark-blue"] .block-title-1,
+[data-color="dark-blue"] .block-title-2,
+[data-color="dark-blue"] .main_menu ul>li>a:focus,
+[data-color="dark-blue"] .main_menu ul>li>a:hover {
+	color: #fff;
+	background-color: #1958a4 !important;
+}
+
+/*4.GREEN*/
+
+[data-color="green"] .main-menu,
+[data-color="green"] .search-icon-btn,
+[data-color="green"] .breaking-ribbon,
+[data-color="green"] .flexslider li h3,
+[data-color="green"] #sidebar-newsletter button,
+[data-color="green"] #newsletter button,
+[data-color="green"] #time,
+[data-color="green"] .btn-primary:hover,
+[data-color="green"] .sponsored,
+[data-color="green"] .sponsored-big,
+[data-color="green"] .carousel-title,
+[data-color="green"] .play-icon,
+[data-color="green"] .title-style05.style-01,
+[data-color="green"] .title-left.underline04::before,
+[data-color="green"] .title-left.underline03::before, 
+[data-color="green"] .page-numbers  span.current,
+[data-color="green"] .read-more:hover:before,
+[data-color="green"] #nav-below-main ul li a:hover:before,
+[data-color="green"] #nav-below-main ul li.current-menu-item a:before,
+[data-color="green"] .btn:hover,
+[data-color="green"] .btn-info.focus, .btn-info:focus,
+[data-color="green"] .btn-default,
+[data-color="green"] .weather-city,
+[data-color="green"] .calendar_wrap caption,
+[data-color="green"] .icon-sub-menu .up-icon,
+[data-color="green"] .tvbanner-area .bg-1,
+[data-color="green"].demo-color,
+[data-color="green"] #footer .widget-title::before,
+[data-color="green"] .mega-menu-wrapper .widget-title::before,
+[data-color="green"] .header-search-box,
+[data-color="green"] .widget-search .search-submit,
+[data-color="green"] #wprmenu_menu .wprmenu_icon_par.wprmenu_par_opened,
+[data-color="green"] .bg-1,
+[data-color="green"] .section-highlighs-wrapper span a,
+[data-color="green"] .section-header h2::after,
+[data-color="green"] .section-highlighs-wrapper span a::before,
+[data-color="green"] .contact-formarea input,
+[data-color="green"] #sidebar-newsletter .sidebar-newsletter-inner h5,
+[data-color="green"] #sidebar-newsletter .sidebar-newsletter-inner h5::before,
+[data-color="green"] .sidebar-social-icons .sidebar-social-icons-inner h5::before,
+[data-color="green"] .twitter-feed-area .twitter-feed-inner h5,
+[data-color="green"] .twitter-feed-area .twitter-feed-inner h5::before,
+[data-color="green"] .container-fluid.header-style-five .main-menu ul.mega-main-menu::before,
+[data-color="green"] .video-promo-item .section-highlight-inner::before,
+[data-color="green"] .promo-item .section-highlight-inner a::before,
+[data-color="green"] .promo-item .section-highlight-inner a,
+[data-color="green"] .video-promo-item .section-highlight-inner,
+[data-color="green"] .single input[type=submit]:hover,
+[data-color="green"] .live-updates .live-title {
+	background-color: #4cb050;
+}
+[data-color="green"] .title-style02,
+[data-color="green"] .title-style02-light,
+[data-color="green"] .blockquote_style02,
+[data-color="green"] .instagram-content .instagram-subtitle {
+	border-left: 3px solid #4cb050;
+}
+[data-color="green"] .title-style02:dir(rtl),
+[data-color="green"] .title-style02-light:dir(rtl),
+[data-color="green"] .blockquote_style02:dir(rtl),
+[data-color="green"] .instagram-content .instagram-subtitle:dir(rtl) {
+	border-right: 3px solid #4cb050;
+}
+[data-color="green"] .section-highlighs,
+[data-color="green"] .sidebar-newsletter-form,
+[data-color="green"] .twitter-feed-wrapper,
+[data-color="green"] .video-promo-content,
+[data-color="green"] .promo-content {
+	border-top: 6px solid #4cb050 !important;
+}
+[data-color="green"] .post-style-3 .entry-header .entry-title,
+[data-color="green"] .section-header-left .section-subtitle {
+	border-left: 6px solid #4cb050 !important;
+}
+[data-color="green"] .post-style-3 .entry-header .entry-title:dir(rtl),
+[data-color="green"] .section-header-left .section-subtitle:dir(rtl) {
+	border-right: 6px solid #4cb050 !important;
+}
+[data-color="green"] .news-gallery-slider .post-content > a {
+	border-left: 2px solid #4cb050 !important;
+}
+[data-color="green"] .news-gallery-slider .post-content > a:dir(rtl) {
+	border-right: 2px solid #4cb050 !important;
+}
+[data-color="green"] .currentLink,
+[data-color="green"] .title-style01>h3,
+[data-color="green"] .style-02 span,
+[data-color="green"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #4cb050;
+}
+[data-color="green"] .contact-us a,
+[data-color="green"] .content-wrap a,
+[data-color="green"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="green"] #nav-below-main ul li a:hover,
+[data-color="green"] #nav-below-main ul li.current-menu-item a,
+[data-color="green"] a:hover,
+[data-color="green"] .hour,
+[data-color="green"] .date,
+[data-color="green"] .day,
+[data-color="green"] .time,
+[data-color="green"] .media-body span,
+[data-color="green"] .header-logo h1,
+[data-color="green"] .header-logo h1 a,
+[data-color="green"] .dropdown-menu a:hover,
+[data-color="green"] .read-more:hover,
+[data-color="green"] .blockquote_style01::before,
+[data-color="green"] .contact-us i,
+[data-color="green"] .currency h4,
+[data-color="green"] .square10,
+[data-color="green"] .square11,
+[data-color="green"] #cdate,
+[data-color="green"] .contact-email a,
+[data-color="green"] .entry-footer span a,
+[data-color="green"] .ticker-title a,
+[data-color="green"] .dot,
+[data-color="green"] .promo-item .promo-content a:hover {
+	color: #4cb050;
+}
+[data-color="green"] .item .item-content a:hover,
+[data-color="green"] .item-content p a:hover,
+[data-color="green"] .events p a:hover,
+[data-color="green"] .small-gallery .post-content p a:hover,
+[data-color="green"] .sidebar-block .sidebar-content a:hover,
+[data-color="green"] .sidebar-post.light p a:hover,
+[data-color="green"] .list-mark-1 li a:hover,
+[data-color="green"] .external-link p:hover,
+[data-color="green"] .container-full .item-content h4 a:hover,
+[data-color="green"] .contact-formarea input:hover,
+[data-color="green"] .promo-item .promo-content .read-more:hover,
+[data-color="green"] .video-promo-item .video-promo-content .read-more:hover {
+	color: #4cb050 !important;
+}
+[data-color="green"] .main_menu ul > li.current-menu-item > a,
+[data-color="green"] .main_menu ul > li.current-page-ancestor > a {
+	background-color: #449e48 !important;
+}
+[data-color="green"] .sponsored:hover,
+[data-color="green"] .sponsored-big:hover,
+[data-color="green"] #sidebar-newsletter button:hover,
+[data-color="green"] .main-menu .nav>li>a:hover,
+[data-color="green"] .nav .open>a, 
+[data-color="green"] .nav .open>a:focus,
+[data-color="green"] .nav .open>a:hover,
+[data-color="green"] .carousel-title:hover,
+[data-color="green"] .pagination > .active > a:hover,
+[data-color="green"] .btn-default:hover,
+[data-color="green"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="green"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="green"] .nav-pills > li.active > a,
+[data-color="green"] .nav-pills > li.active > a:focus,
+[data-color="green"] .nav-pills > li.active > a:hover,
+[data-color="green"] .dropdown-menu > li > a:hover,
+[data-color="green"] .block-title-1,
+[data-color="green"] .block-title-2,
+[data-color="green"] .main_menu ul>li>a:focus,
+[data-color="green"] .main_menu ul>li>a:hover {
+	color: #fff;
+	background-color: #5db761 !important;
+}
+
+/*5.PURPLE*/
+
+[data-color="purple"] .main-menu,
+[data-color="purple"] .search-icon-btn,
+[data-color="purple"] .breaking-ribbon,
+[data-color="purple"] .flexslider li h3,
+[data-color="purple"] #sidebar-newsletter button,
+[data-color="purple"] #newsletter button,
+[data-color="purple"] #time,
+[data-color="purple"] .btn-primary:hover,
+[data-color="purple"] .sponsored,
+[data-color="purple"] .sponsored-big,
+[data-color="purple"] .carousel-title,
+[data-color="purple"] .play-icon,
+[data-color="purple"] .title-style05.style-01,
+[data-color="purple"] .title-left.underline04::before,
+[data-color="purple"] .title-left.underline03::before, 
+[data-color="purple"] .page-numbers  span.current,
+[data-color="purple"] .read-more:hover:before,
+[data-color="purple"] #nav-below-main ul li a:hover:before,
+[data-color="purple"] #nav-below-main ul li.current-menu-item a:before,
+[data-color="purple"] .btn:hover,
+[data-color="purple"] .btn-info.focus, .btn-info:focus,
+[data-color="purple"] .btn-default,
+[data-color="purple"] .weather-city,
+[data-color="purple"] .calendar_wrap caption,
+[data-color="purple"] .icon-sub-menu .up-icon,
+[data-color="purple"] .tvbanner-area .bg-1,
+[data-color="purple"].demo-color,
+[data-color="purple"] #footer .widget-title::before,
+[data-color="purple"] .mega-menu-wrapper .widget-title::before,
+[data-color="purple"] .header-search-box,
+[data-color="purple"] .widget-search .search-submit,
+[data-color="purple"] #wprmenu_menu .wprmenu_icon_par.wprmenu_par_opened,
+[data-color="purple"] .bg-1,
+[data-color="purple"] .section-highlighs-wrapper span a,
+[data-color="purple"] .section-header h2::after,
+[data-color="purple"] .section-highlighs-wrapper span a::before,
+[data-color="purple"] .contact-formarea input,
+[data-color="purple"] #sidebar-newsletter .sidebar-newsletter-inner h5,
+[data-color="purple"] #sidebar-newsletter .sidebar-newsletter-inner h5::before,
+[data-color="purple"] .sidebar-social-icons .sidebar-social-icons-inner h5::before,
+[data-color="purple"] .twitter-feed-area .twitter-feed-inner h5,
+[data-color="purple"] .twitter-feed-area .twitter-feed-inner h5::before,
+[data-color="purple"] .container-fluid.header-style-five .main-menu ul.mega-main-menu::before,
+[data-color="purple"] .video-promo-item .section-highlight-inner::before,
+[data-color="purple"] .promo-item .section-highlight-inner a::before,
+[data-color="purple"] .promo-item .section-highlight-inner a,
+[data-color="purple"] .video-promo-item .section-highlight-inner,
+[data-color="purple"] .single input[type=submit]:hover,
+[data-color="purple"] .live-updates .live-title {
+	background-color: #654e9c;
+}
+[data-color="purple"] .title-style02,
+[data-color="purple"] .title-style02-light,
+[data-color="purple"] .blockquote_style02,
+[data-color="purple"] .instagram-content .instagram-subtitle {
+	border-left: 3px solid #654e9c;
+}
+[data-color="purple"] .title-style02:dir(rtl),
+[data-color="purple"] .title-style02-light:dir(rtl),
+[data-color="purple"] .blockquote_style02:dir(rtl),
+[data-color="purple"] .instagram-content .instagram-subtitle:dir(rtl) {
+	border-right: 3px solid #654e9c;
+}
+[data-color="purple"] .section-highlighs,
+[data-color="purple"] .sidebar-newsletter-form,
+[data-color="purple"] .twitter-feed-wrapper,
+[data-color="purple"] .video-promo-content,
+[data-color="purple"] .promo-content {
+	border-top: 6px solid #654e9c !important;
+}
+[data-color="purple"] .post-style-3 .entry-header .entry-title,
+[data-color="purple"] .section-header-left .section-subtitle {
+	border-left: 6px solid #654e9c !important;
+}
+[data-color="purple"] .post-style-3 .entry-header .entry-title:dir(rtl),
+[data-color="purple"] .section-header-left .section-subtitle:dir(rtl) {
+	border-right: 6px solid #654e9c !important;
+}
+[data-color="purple"] .news-gallery-slider .post-content > a {
+	border-left: 2px solid #654e9c !important;
+}
+[data-color="purple"] .news-gallery-slider .post-content > a:dir(rtl) {
+	border-right: 2px solid #654e9c !important;
+}
+[data-color="purple"] .currentLink,
+[data-color="purple"] .title-style01>h3,
+[data-color="purple"] .style-02 span,
+[data-color="purple"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #654e9c;
+}
+[data-color="purple"] .contact-us a,
+[data-color="purple"] .content-wrap a,
+[data-color="purple"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="purple"] #nav-below-main ul li a:hover,
+[data-color="purple"] #nav-below-main ul li.current-menu-item a,
+[data-color="purple"] a:hover,
+[data-color="purple"] .hour,
+[data-color="purple"] .date,
+[data-color="purple"] .day,
+[data-color="purple"] .time,
+[data-color="purple"] .media-body span,
+[data-color="purple"] .header-logo h1,
+[data-color="purple"] .header-logo h1 a,
+[data-color="purple"] .dropdown-menu a:hover,
+[data-color="purple"] .read-more:hover,
+[data-color="purple"] .blockquote_style01::before,
+[data-color="purple"] .contact-us i,
+[data-color="purple"] .currency h4,
+[data-color="purple"] .square10,
+[data-color="purple"] .square11,
+[data-color="purple"] #cdate,
+[data-color="purple"] .contact-email a,
+[data-color="purple"] .entry-footer span a,
+[data-color="purple"] .ticker-title a,
+[data-color="purple"] .dot,
+[data-color="purple"] .promo-item .promo-content a:hover {
+	color: #654e9c;
+}
+[data-color="purple"] .item .item-content a:hover,
+[data-color="purple"] .item-content p a:hover,
+[data-color="purple"] .events p a:hover,
+[data-color="purple"] .small-gallery .post-content p a:hover,
+[data-color="purple"] .sidebar-block .sidebar-content a:hover,
+[data-color="purple"] .sidebar-post.light p a:hover,
+[data-color="purple"] .list-mark-1 li a:hover,
+[data-color="purple"] .external-link p:hover,
+[data-color="purple"] .container-full .item-content h4 a:hover,
+[data-color="purple"] .contact-formarea input:hover,
+[data-color="purple"] .promo-item .promo-content .read-more:hover,
+[data-color="purple"] .video-promo-item .video-promo-content .read-more:hover {
+	color: #654e9c !important;
+}
+[data-color="purple"] .main_menu ul > li.current-menu-item > a,
+[data-color="purple"] .main_menu ul > li.current-page-ancestor > a {
+	background-color: #5a3a94 !important;
+}
+[data-color="purple"] .sponsored:hover,
+[data-color="purple"] .sponsored-big:hover,
+[data-color="purple"] #sidebar-newsletter button:hover,
+[data-color="purple"] .main-menu .nav>li>a:hover,
+[data-color="purple"] .nav .open>a, 
+[data-color="purple"] .nav .open>a:focus,
+[data-color="purple"] .nav .open>a:hover,
+[data-color="purple"] .carousel-title:hover,
+[data-color="purple"] .pagination > .active > a:hover,
+[data-color="purple"] .btn-default:hover,
+[data-color="purple"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="purple"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="purple"] .nav-pills > li.active > a,
+[data-color="purple"] .nav-pills > li.active > a:focus,
+[data-color="purple"] .nav-pills > li.active > a:hover,
+[data-color="purple"] .dropdown-menu > li > a:hover,
+[data-color="purple"] .block-title-1,
+[data-color="purple"] .block-title-2,
+[data-color="purple"] .main_menu ul>li>a:focus,
+[data-color="purple"] .main_menu ul>li>a:hover {
+	color: #fff;
+	background-color: #7354ae !important;
+}
+
+/*6.ORANGE*/
+
+[data-color="orange"] .main-menu,
+[data-color="orange"] .search-icon-btn,
+[data-color="orange"] .breaking-ribbon,
+[data-color="orange"] .flexslider li h4,
+[data-color="orange"] #sidebar-newsletter button,
+[data-color="orange"] #newsletter button,
+[data-color="orange"] #time,
+[data-color="orange"] .btn-primary:hover,
+[data-color="orange"] .sponsored,
+[data-color="orange"] .sponsored-big,
+[data-color="orange"] .carousel-title,
+[data-color="orange"] .play-icon,
+[data-color="orange"] .title-style05.style-01,
+[data-color="orange"] .title-left.underline04::before,
+[data-color="orange"] .title-left.underline03::before, 
+[data-color="orange"] .page-numbers  span.current,
+[data-color="orange"] .read-more:hover:before,
+[data-color="orange"] #nav-below-main ul li a:hover:before,
+[data-color="orange"] #nav-below-main ul li.current-menu-item a:before,
+[data-color="orange"] .btn:hover,
+[data-color="orange"] .btn-info.focus, .btn-info:focus,
+[data-color="orange"] .btn-default,
+[data-color="orange"] .weather-city,
+[data-color="orange"] .calendar_wrap caption,
+[data-color="orange"] .icon-sub-menu .up-icon,
+[data-color="orange"] .tvbanner-area .bg-1,
+[data-color="orange"].demo-color,
+[data-color="orange"] #footer .widget-title::before,
+[data-color="orange"] .mega-menu-wrapper .widget-title::before,
+[data-color="orange"] .header-search-box,
+[data-color="orange"] .widget-search .search-submit,
+[data-color="orange"] #wprmenu_menu .wprmenu_icon_par.wprmenu_par_opened,
+[data-color="orange"] .bg-1,
+[data-color="orange"] .section-highlighs-wrapper span a,
+[data-color="orange"] .section-header h2::after,
+[data-color="orange"] .section-highlighs-wrapper span a::before,
+[data-color="orange"] .contact-formarea input,
+[data-color="orange"] #sidebar-newsletter .sidebar-newsletter-inner h5,
+[data-color="orange"] #sidebar-newsletter .sidebar-newsletter-inner h5::before,
+[data-color="orange"] .sidebar-social-icons .sidebar-social-icons-inner h5::before,
+[data-color="orange"] .twitter-feed-area .twitter-feed-inner h5,
+[data-color="orange"] .twitter-feed-area .twitter-feed-inner h5::before,
+[data-color="orange"] .container-fluid.header-style-five .main-menu ul.mega-main-menu::before,
+[data-color="orange"] .video-promo-item .section-highlight-inner::before,
+[data-color="orange"] .promo-item .section-highlight-inner a::before,
+[data-color="orange"] .promo-item .section-highlight-inner a,
+[data-color="orange"] .video-promo-item .section-highlight-inner,
+[data-color="orange"] .single input[type=submit]:hover,
+[data-color="orange"] .live-updates .live-title {
+	background-color: #ff9800;
+}
+[data-color="orange"] .title-style02,
+[data-color="orange"] .title-style02-light,
+[data-color="orange"] .blockquote_style02,
+[data-color="orange"] .instagram-content .instagram-subtitle {
+	border-left: 3px solid #ff9800;
+}
+[data-color="orange"] .title-style02:dir(rtl),
+[data-color="orange"] .title-style02-light:dir(rtl),
+[data-color="orange"] .blockquote_style02:dir(rtl),
+[data-color="orange"] .instagram-content .instagram-subtitle:dir(rtl) {
+	border-right: 3px solid #ff9800;
+}
+[data-color="orange"] .section-highlighs,
+[data-color="orange"] .sidebar-newsletter-form,
+[data-color="orange"] .twitter-feed-wrapper,
+[data-color="orange"] .video-promo-content,
+[data-color="orange"] .promo-content {
+	border-top: 6px solid #ff9800 !important;
+}
+[data-color="orange"] .post-style-3 .entry-header .entry-title,
+[data-color="orange"] .section-header-left .section-subtitle {
+	border-left: 6px solid #ff9800 !important;
+}
+[data-color="orange"] .post-style-3 .entry-header .entry-title:dir(rtl),
+[data-color="orange"] .section-header-left .section-subtitle:dir(rtl) {
+	border-right: 6px solid #ff9800 !important;
+}
+[data-color="orange"] .news-gallery-slider .post-content > a {
+	border-left: 2px solid #ff9800 !important;
+}
+[data-color="orange"] .news-gallery-slider .post-content > a:dir(rtl) {
+	border-right: 2px solid #ff9800 !important;
+}
+[data-color="orange"] .currentLink,
+[data-color="orange"] .title-style01>h3,
+[data-color="orange"] .style-02 span,
+[data-color="orange"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #ff9800;
+}
+[data-color="orange"] .contact-us a,
+[data-color="orange"] .content-wrap a,
+[data-color="orange"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="orange"] #nav-below-main ul li a:hover,
+[data-color="orange"] #nav-below-main ul li.current-menu-item a,
+[data-color="orange"] a:hover,
+[data-color="orange"] .hour,
+[data-color="orange"] .date,
+[data-color="orange"] .day,
+[data-color="orange"] .time,
+[data-color="orange"] .media-body span,
+[data-color="orange"] .header-logo h1,
+[data-color="orange"] .header-logo h1 a,
+[data-color="orange"] .dropdown-menu a:hover,
+[data-color="orange"] .read-more:hover,
+[data-color="orange"] .blockquote_style01::before,
+[data-color="orange"] .contact-us i,
+[data-color="orange"] .currency h4,
+[data-color="orange"] .square10,
+[data-color="orange"] .square11,
+[data-color="orange"] #cdate,
+[data-color="orange"] .contact-email a,
+[data-color="orange"] .entry-footer span a,
+[data-color="orange"] .ticker-title a,
+[data-color="orange"] .dot,
+[data-color="orange"] .promo-item .promo-content a:hover {
+	color: #ff9800;
+}
+[data-color="orange"] .item .item-content a:hover,
+[data-color="orange"] .item-content p a:hover,
+[data-color="orange"] .events p a:hover,
+[data-color="orange"] .small-gallery .post-content p a:hover,
+[data-color="orange"] .sidebar-block .sidebar-content a:hover,
+[data-color="orange"] .sidebar-post.light p a:hover,
+[data-color="orange"] .list-mark-1 li a:hover,
+[data-color="orange"] .external-link p:hover,
+[data-color="orange"] .container-full .item-content h4 a:hover,
+[data-color="orange"] .contact-formarea input:hover,
+[data-color="orange"] .promo-item .promo-content .read-more:hover,
+[data-color="orange"] .video-promo-item .video-promo-content .read-more:hover {
+	color: #ff9800 !important;
+}
+[data-color="orange"] .main_menu ul > li.current-menu-item > a,
+[data-color="orange"] .main_menu ul > li.current-page-ancestor > a {
+	background-color: #fb8c00 !important;
+}
+[data-color="orange"] .sponsored:hover,
+[data-color="orange"] .sponsored-big:hover,
+[data-color="orange"] #sidebar-newsletter button:hover,
+[data-color="orange"] .main-menu .nav>li>a:hover,
+[data-color="orange"] .nav .open>a, 
+[data-color="orange"] .nav .open>a:focus,
+[data-color="orange"] .nav .open>a:hover,
+[data-color="orange"] .carousel-title:hover,
+[data-color="orange"] .pagination > .active > a:hover,
+[data-color="orange"] .btn-default:hover,
+[data-color="orange"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="orange"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="orange"] .nav-pills > li.active > a,
+[data-color="orange"] .nav-pills > li.active > a:focus,
+[data-color="orange"] .nav-pills > li.active > a:hover,
+[data-color="orange"] .dropdown-menu > li > a:hover,
+[data-color="orange"] .block-title-1,
+[data-color="orange"] .block-title-2,
+[data-color="orange"] .main_menu ul>li>a:focus,
+[data-color="orange"] .main_menu ul>li>a:hover {
+	color: #fff;
+	background-color: #ffa200 !important;
+}
+
+/*7.DEEP-ORANGE*/
+
+[data-color="deep-orange"] .main-menu,
+[data-color="deep-orange"] .search-icon-btn,
+[data-color="deep-orange"] .breaking-ribbon,
+[data-color="deep-orange"] .flexslider li h4,
+[data-color="deep-orange"] #sidebar-newsletter button,
+[data-color="deep-orange"] #newsletter button,
+[data-color="deep-orange"] #time,
+[data-color="deep-orange"] .btn-primary:hover,
+[data-color="deep-orange"] .sponsored,
+[data-color="deep-orange"] .sponsored-big,
+[data-color="deep-orange"] .carousel-title,
+[data-color="deep-orange"] .play-icon,
+[data-color="deep-orange"] .title-style05.style-01,
+[data-color="deep-orange"] .title-left.underline04::before,
+[data-color="deep-orange"] .title-left.underline03::before, 
+[data-color="deep-orange"] .page-numbers  span.current,
+[data-color="deep-orange"] .read-more:hover:before,
+[data-color="deep-orange"] #nav-below-main ul li a:hover:before,
+[data-color="deep-orange"] #nav-below-main ul li.current-menu-item a:before,
+[data-color="deep-orange"] .btn:hover,
+[data-color="deep-orange"] .btn-info.focus, .btn-info:focus,
+[data-color="deep-orange"] .btn-default,
+[data-color="deep-orange"] .weather-city,
+[data-color="deep-orange"] .calendar_wrap caption,
+[data-color="deep-orange"] .icon-sub-menu .up-icon,
+[data-color="deep-orange"] .tvbanner-area .bg-1,
+[data-color="deep-orange"].demo-color,
+[data-color="deep-orange"] #footer .widget-title::before,
+[data-color="deep-orange"] .mega-menu-wrapper .widget-title::before,
+[data-color="deep-orange"] .header-search-box,
+[data-color="deep-orange"] .widget-search .search-submit,
+[data-color="deep-orange"] #wprmenu_menu .wprmenu_icon_par.wprmenu_par_opened,
+[data-color="deep-orange"] .bg-1,
+[data-color="deep-orange"] .section-highlighs-wrapper span a,
+[data-color="deep-orange"] .section-header h2::after,
+[data-color="deep-orange"] .section-highlighs-wrapper span a::before,
+[data-color="deep-orange"] .contact-formarea input,
+[data-color="deep-orange"] #sidebar-newsletter .sidebar-newsletter-inner h5,
+[data-color="deep-orange"] #sidebar-newsletter .sidebar-newsletter-inner h5::before,
+[data-color="deep-orange"] .sidebar-social-icons .sidebar-social-icons-inner h5::before,
+[data-color="deep-orange"] .twitter-feed-area .twitter-feed-inner h5,
+[data-color="deep-orange"] .twitter-feed-area .twitter-feed-inner h5::before,
+[data-color="deep-orange"] .container-fluid.header-style-five .main-menu ul.mega-main-menu::before,
+[data-color="deep-orange"] .video-promo-item .section-highlight-inner::before,
+[data-color="deep-orange"] .promo-item .section-highlight-inner a::before,
+[data-color="deep-orange"] .promo-item .section-highlight-inner a,
+[data-color="deep-orange"] .video-promo-item .section-highlight-inner,
+[data-color="deep-orange"] .single input[type=submit]:hover,
+[data-color="deep-orange"] .live-updates .live-title {
+	background-color: #ff4011;
+}
+[data-color="deep-orange"] .title-style02,
+[data-color="deep-orange"] .title-style02-light,
+[data-color="deep-orange"] .blockquote_style02,
+[data-color="deep-orange"] .instagram-content .instagram-subtitle {
+	border-left: 3px solid #ff4011;
+}
+[data-color="deep-orange"] .title-style02:dir(rtl),
+[data-color="deep-orange"] .title-style02-light:dir(rtl),
+[data-color="deep-orange"] .blockquote_style02:dir(rtl),
+[data-color="deep-orange"] .instagram-content .instagram-subtitle:dir(rtl) {
+	border-right: 3px solid #ff4011;
+}
+[data-color="deep-orange"] .section-highlighs,
+[data-color="deep-orange"] .sidebar-newsletter-form,
+[data-color="deep-orange"] .twitter-feed-wrapper,
+[data-color="deep-orange"] .video-promo-content,
+[data-color="deep-orange"] .promo-content {
+	border-top: 6px solid #ff4011 !important;
+}
+[data-color="deep-orange"] .post-style-3 .entry-header .entry-title,
+[data-color="deep-orange"] .section-header-left .section-subtitle {
+	border-left: 6px solid #ff4011 !important;
+}
+[data-color="deep-orange"] .post-style-3 .entry-header .entry-title:dir(rtl),
+[data-color="deep-orange"] .section-header-left .section-subtitle:dir(rtl) {
+	border-right: 6px solid #ff4011 !important;
+}
+[data-color="deep-orange"] .news-gallery-slider .post-content > a {
+	border-left: 2px solid #ff4011 !important;
+}
+[data-color="deep-orange"] .news-gallery-slider .post-content > a:dir(rtl) {
+	border-right: 2px solid #ff4011 !important;
+}
+[data-color="deep-orange"] .currentLink,
+[data-color="deep-orange"] .title-style01>h3,
+[data-color="deep-orange"] .style-02 span,
+[data-color="deep-orange"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #ff4011;
+}
+[data-color="deep-orange"] .contact-us a,
+[data-color="deep-orange"] .content-wrap a,
+[data-color="deep-orange"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="deep-orange"] #nav-below-main ul li a:hover,
+[data-color="deep-orange"] #nav-below-main ul li.current-menu-item a,
+[data-color="deep-orange"] a:hover,
+[data-color="deep-orange"] .hour,
+[data-color="deep-orange"] .date,
+[data-color="deep-orange"] .day,
+[data-color="deep-orange"] .time,
+[data-color="deep-orange"] .media-body span,
+[data-color="deep-orange"] .header-logo h1,
+[data-color="deep-orange"] .header-logo h1 a,
+[data-color="deep-orange"] .dropdown-menu a:hover,
+[data-color="deep-orange"] .read-more:hover,
+[data-color="deep-orange"] .blockquote_style01::before,
+[data-color="deep-orange"] .contact-us i,
+[data-color="deep-orange"] .currency h4,
+[data-color="deep-orange"] .square10,
+[data-color="deep-orange"] .square11,
+[data-color="deep-orange"] #cdate,
+[data-color="deep-orange"] .contact-email a,
+[data-color="deep-orange"] .entry-footer span a,
+[data-color="deep-orange"] .ticker-title a,
+[data-color="deep-orange"] .dot,
+[data-color="deep-orange"] .promo-item .promo-content a:hover {
+	color: #ff4011;
+}
+[data-color="deep-orange"] .item .item-content a:hover,
+[data-color="deep-orange"] .item-content p a:hover,
+[data-color="deep-orange"] .events p a:hover,
+[data-color="deep-orange"] .small-gallery .post-content p a:hover,
+[data-color="deep-orange"] .sidebar-block .sidebar-content a:hover,
+[data-color="deep-orange"] .sidebar-post.light p a:hover,
+[data-color="deep-orange"] .list-mark-1 li a:hover,
+[data-color="deep-orange"] .external-link p:hover,
+[data-color="deep-orange"] .container-full .item-content h4 a:hover,
+[data-color="deep-orange"] .contact-formarea input:hover,
+[data-color="deep-orange"] .promo-item .promo-content .read-more:hover,
+[data-color="deep-orange"] .video-promo-item .video-promo-content .read-more:hover {
+	color: #ff4011 !important;
+}
+[data-color="deep-orange"] .main_menu ul > li.current-menu-item > a,
+[data-color="deep-orange"] .main_menu ul > li.current-page-ancestor > a {
+	background-color: #f73100 !important;
+}
+[data-color="deep-orange"] .sponsored:hover,
+[data-color="deep-orange"] .sponsored-big:hover,
+[data-color="deep-orange"] #sidebar-newsletter button:hover,
+[data-color="deep-orange"] .main-menu .nav>li>a:hover,
+[data-color="deep-orange"] .nav .open>a, 
+[data-color="deep-orange"] .nav .open>a:focus,
+[data-color="deep-orange"] .nav .open>a:hover,
+[data-color="deep-orange"] .carousel-title:hover,
+[data-color="deep-orange"] .pagination > .active > a:hover,
+[data-color="deep-orange"] .btn-default:hover,
+[data-color="deep-orange"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="deep-orange"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="deep-orange"] .nav-pills > li.active > a,
+[data-color="deep-orange"] .nav-pills > li.active > a:focus,
+[data-color="deep-orange"] .nav-pills > li.active > a:hover,
+[data-color="deep-orange"] .dropdown-menu > li > a:hover,
+[data-color="deep-orange"] .block-title-1,
+[data-color="deep-orange"] .block-title-2,
+[data-color="deep-orange"] .main_menu ul>li>a:focus,
+[data-color="deep-orange"] .main_menu ul>li>a:hover {
+	color: #fff;
+	background-color: #ff4c1c !important;
+}
+
+/*8.TURQUOISE*/
+
+[data-color="turquoise"] .main-menu,
+[data-color="turquoise"] .search-icon-btn,
+[data-color="turquoise"] .breaking-ribbon,
+[data-color="turquoise"] .flexslider li h4,
+[data-color="turquoise"] #sidebar-newsletter button,
+[data-color="turquoise"] #newsletter button,
+[data-color="turquoise"] #time,
+[data-color="turquoise"] .btn-primary:hover,
+[data-color="turquoise"] .sponsored,
+[data-color="turquoise"] .sponsored-big,
+[data-color="turquoise"] .carousel-title,
+[data-color="turquoise"] .play-icon,
+[data-color="turquoise"] .title-style05.style-01,
+[data-color="turquoise"] .title-left.underline04::before,
+[data-color="turquoise"] .title-left.underline03::before, 
+[data-color="turquoise"] .page-numbers  span.current,
+[data-color="turquoise"] .read-more:hover:before,
+[data-color="turquoise"] #nav-below-main ul li a:hover:before,
+[data-color="turquoise"] #nav-below-main ul li.current-menu-item a:before,
+[data-color="turquoise"] .btn:hover,
+[data-color="turquoise"] .btn-info.focus, .btn-info:focus,
+[data-color="turquoise"] .btn-default,
+[data-color="turquoise"] .weather-city,
+[data-color="turquoise"] .calendar_wrap caption,
+[data-color="turquoise"] .icon-sub-menu .up-icon,
+[data-color="turquoise"] .tvbanner-area .bg-1,
+[data-color="turquoise"].demo-color,
+[data-color="turquoise"] #footer .widget-title::before,
+[data-color="turquoise"] .mega-menu-wrapper .widget-title::before,
+[data-color="turquoise"] .header-search-box,
+[data-color="turquoise"] .widget-search .search-submit,
+[data-color="turquoise"] #wprmenu_menu .wprmenu_icon_par.wprmenu_par_opened,
+[data-color="turquoise"]  .bg-1,
+[data-color="turquoise"] .section-highlighs-wrapper span a,
+[data-color="turquoise"] .section-header h2::after,
+[data-color="turquoise"] .section-highlighs-wrapper span a::before,
+[data-color="turquoise"] .contact-formarea input,
+[data-color="turquoise"] #sidebar-newsletter .sidebar-newsletter-inner h5,
+[data-color="turquoise"] #sidebar-newsletter .sidebar-newsletter-inner h5::before,
+[data-color="turquoise"] .sidebar-social-icons .sidebar-social-icons-inner h5::before,
+[data-color="turquoise"] .twitter-feed-area .twitter-feed-inner h5,
+[data-color="turquoise"] .twitter-feed-area .twitter-feed-inner h5::before,
+[data-color="turquoise"] .container-fluid.header-style-five .main-menu ul.mega-main-menu::before,
+[data-color="turquoise"] .video-promo-item .section-highlight-inner::before,
+[data-color="turquoise"] .promo-item .section-highlight-inner a::before,
+[data-color="turquoise"] .promo-item .section-highlight-inner a,
+[data-color="turquoise"] .video-promo-item .section-highlight-inner,
+[data-color="turquoise"] .single input[type=submit]:hover,
+[data-color="turquoise"] .live-updates .live-title {
+	background-color: #39c9bb;
+}
+[data-color="turquoise"] .title-style02,
+[data-color="turquoise"] .title-style02-light,
+[data-color="turquoise"] .blockquote_style02,
+[data-color="turquoise"] .instagram-content .instagram-subtitle {
+	border-left: 3px solid #39c9bb;
+}
+[data-color="turquoise"] .title-style02:dir(rtl),
+[data-color="turquoise"] .title-style02-light:dir(rtl),
+[data-color="turquoise"] .blockquote_style02:dir(rtl),
+[data-color="turquoise"] .instagram-content .instagram-subtitle:dir(rtl) {
+	border-right: 3px solid #39c9bb;
+}
+[data-color="turquoise"] .section-highlighs,
+[data-color="turquoise"] .sidebar-newsletter-form,
+[data-color="turquoise"] .twitter-feed-wrapper,
+[data-color="turquoise"] .video-promo-content,
+[data-color="turquoise"] .promo-content {
+	border-top: 6px solid #39c9bb !important;
+}
+[data-color="turquoise"] .post-style-3 .entry-header .entry-title,
+[data-color="turquoise"] .section-header-left .section-subtitle {
+	border-left: 6px solid #39c9bb !important;
+}
+[data-color="turquoise"] .post-style-3 .entry-header .entry-title:dir(rtl),
+[data-color="turquoise"] .section-header-left .section-subtitle:dir(rtl) {
+	border-right: 6px solid #39c9bb !important;
+}
+[data-color="turquoise"] .news-gallery-slider .post-content > a {
+	border-left: 2px solid #39c9bb !important;
+}
+[data-color="turquoise"] .news-gallery-slider .post-content > a:dir(rtl) {
+	border-right: 2px solid #39c9bb !important;
+}
+[data-color="turquoise"] .currentLink,
+[data-color="turquoise"] .title-style01>h3,
+[data-color="turquoise"] .style-02 span,
+[data-color="turquoise"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #39c9bb;
+}
+[data-color="turquoise"] .contact-us a,
+[data-color="turquoise"] .content-wrap a,
+[data-color="turquoise"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="turquoise"] #nav-below-main ul li a:hover,
+[data-color="turquoise"] #nav-below-main ul li.current-menu-item a,
+[data-color="turquoise"] a:hover,
+[data-color="turquoise"] .hour,
+[data-color="turquoise"] .date,
+[data-color="turquoise"] .day,
+[data-color="turquoise"] .time,
+[data-color="turquoise"] .media-body span,
+[data-color="turquoise"] .header-logo h1,
+[data-color="turquoise"] .header-logo h1 a,
+[data-color="turquoise"] .dropdown-menu a:hover,
+[data-color="turquoise"] .read-more:hover,
+[data-color="turquoise"] .blockquote_style01::before,
+[data-color="turquoise"] .contact-us i,
+[data-color="turquoise"] .currency h4,
+[data-color="turquoise"] .square10,
+[data-color="turquoise"] .square11,
+[data-color="turquoise"] #cdate,
+[data-color="turquoise"] .contact-email a,
+[data-color="turquoise"] .entry-footer span a,
+[data-color="turquoise"] .ticker-title a,
+[data-color="turquoise"] .dot,
+[data-color="turquoise"] .promo-item .promo-content a:hover {
+	color: #39c9bb;
+}
+[data-color="turquoise"] .item .item-content a:hover,
+[data-color="turquoise"] .item-content p a:hover,
+[data-color="turquoise"] .events p a:hover,
+[data-color="turquoise"] .small-gallery .post-content p a:hover,
+[data-color="turquoise"] .sidebar-block .sidebar-content a:hover,
+[data-color="turquoise"] .sidebar-post.light p a:hover,
+[data-color="turquoise"] .list-mark-1 li a:hover,
+[data-color="turquoise"] .external-link p:hover,
+[data-color="turquoise"] .container-full .item-content h4 a:hover,
+[data-color="turquoise"] .contact-formarea input:hover,
+[data-color="turquoise"] .promo-item .promo-content .read-more:hover,
+[data-color="turquoise"] .video-promo-item .video-promo-content .read-more:hover {
+	color: #39c9bb !important;
+}
+[data-color="turquoise"] .main_menu ul > li.current-menu-item > a,
+[data-color="turquoise"] .main_menu ul > li.current-page-ancestor > a {
+	background-color: #33b3a6 !important;
+}
+[data-color="turquoise"] .sponsored:hover,
+[data-color="turquoise"] .sponsored-big:hover,
+[data-color="turquoise"] #sidebar-newsletter button:hover,
+[data-color="turquoise"] .main-menu .nav>li>a:hover,
+[data-color="turquoise"] .nav .open>a, 
+[data-color="turquoise"] .nav .open>a:focus,
+[data-color="turquoise"] .nav .open>a:hover,
+[data-color="turquoise"] .carousel-title:hover,
+[data-color="turquoise"] .pagination > .active > a:hover,
+[data-color="turquoise"] .btn-default:hover,
+[data-color="turquoise"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="turquoise"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="turquoise"] .nav-pills > li.active > a,
+[data-color="turquoise"] .nav-pills > li.active > a:focus,
+[data-color="turquoise"] .nav-pills > li.active > a:hover,
+[data-color="turquoise"] .dropdown-menu > li > a:hover,
+[data-color="turquoise"] .block-title-1,
+[data-color="turquoise"] .block-title-2,
+[data-color="turquoise"] .main_menu ul>li>a:focus,
+[data-color="turquoise"] .main_menu ul>li>a:hover {
+	color: #fff;
+	background-color: #40e0d0 !important;
+}
+
+/*9.PINK*/
+
+[data-color="pink"] .main-menu,
+[data-color="pink"] .search-icon-btn,
+[data-color="pink"] .breaking-ribbon,
+[data-color="pink"] .flexslider li h3,
+[data-color="pink"] #sidebar-newsletter button,
+[data-color="pink"] #newsletter button,
+[data-color="pink"] #time,
+[data-color="pink"] .btn-primary:hover,
+[data-color="pink"] .sponsored,
+[data-color="pink"] .sponsored-big,
+[data-color="pink"] .carousel-title,
+[data-color="pink"] .play-icon,
+[data-color="pink"] .title-style05.style-01,
+[data-color="pink"] .title-left.underline04::before,
+[data-color="pink"] .title-left.underline03::before, 
+[data-color="pink"] .page-numbers  span.current,
+[data-color="pink"] .read-more:hover:before,
+[data-color="pink"] #nav-below-main ul li a:hover:before,
+[data-color="pink"] #nav-below-main ul li.current-menu-item a:before,
+[data-color="pink"] .btn:hover,
+[data-color="pink"] .btn-info.focus, .btn-info:focus,
+[data-color="pink"] .btn-default,
+[data-color="pink"] .weather-city,
+[data-color="pink"] .calendar_wrap caption,
+[data-color="pink"] .icon-sub-menu .up-icon,
+[data-color="pink"] .tvbanner-area .bg-1,
+[data-color="pink"].demo-color,
+[data-color="pink"] #footer .widget-title::before,
+[data-color="pink"] .mega-menu-wrapper .widget-title::before,
+[data-color="pink"] .header-search-box,
+[data-color="pink"] .widget-search .search-submit,
+[data-color="pink"] #wprmenu_menu .wprmenu_icon_par.wprmenu_par_opened,
+[data-color="pink"] .bg-1,
+[data-color="pink"] .section-highlighs-wrapper span a,
+[data-color="pink"] .section-header h2::after,
+[data-color="pink"] .section-highlighs-wrapper span a::before,
+[data-color="pink"] .contact-formarea input,
+[data-color="pink"] #sidebar-newsletter .sidebar-newsletter-inner h5,
+[data-color="pink"] #sidebar-newsletter .sidebar-newsletter-inner h5::before,
+[data-color="pink"] .sidebar-social-icons .sidebar-social-icons-inner h5::before,
+[data-color="pink"] .twitter-feed-area .twitter-feed-inner h5,
+[data-color="pink"] .twitter-feed-area .twitter-feed-inner h5::before,
+[data-color="pink"] .container-fluid.header-style-five .main-menu ul.mega-main-menu::before,
+[data-color="pink"] .video-promo-item .section-highlight-inner::before,
+[data-color="pink"] .promo-item .section-highlight-inner a::before,
+[data-color="pink"] .promo-item .section-highlight-inner a,
+[data-color="pink"] .video-promo-item .section-highlight-inner,
+[data-color="pink"] .single input[type=submit]:hover,
+[data-color="pink"] .live-updates .live-title {
+	background-color: #ea0253;
+}
+[data-color="pink"] .title-style02,
+[data-color="pink"] .title-style02-light,
+[data-color="pink"] .blockquote_style02,
+[data-color="pink"] .instagram-content .instagram-subtitle {
+	border-left: 3px solid #ea0253;
+}
+[data-color="pink"] .title-style02:dir(rtl),
+[data-color="pink"] .title-style02-light:dir(rtl),
+[data-color="pink"] .blockquote_style02:dir(rtl),
+[data-color="pink"] .instagram-content .instagram-subtitle:dir(rtl) {
+	border-right: 3px solid #ea0253;
+}
+[data-color="pink"] .section-highlighs,
+[data-color="pink"] .sidebar-newsletter-form,
+[data-color="pink"] .twitter-feed-wrapper,
+[data-color="pink"] .video-promo-content,
+[data-color="pink"] .promo-content {
+	border-top: 6px solid #ea0253 !important;
+}
+[data-color="pink"] .post-style-3 .entry-header .entry-title,
+[data-color="pink"] .section-header-left .section-subtitle {
+	border-left: 6px solid #ea0253 !important;
+}
+[data-color="pink"] .post-style-3 .entry-header .entry-title:dir(rtl),
+[data-color="pink"] .section-header-left .section-subtitle:dir(rtl) {
+	border-right: 6px solid #ea0253 !important;
+}
+[data-color="pink"] .news-gallery-slider .post-content > a {
+	border-left: 2px solid #ea0253 !important;
+}
+[data-color="pink"] .news-gallery-slider .post-content > a:dir(rtl) {
+	border-right: 2px solid #ea0253 !important;
+}
+[data-color="pink"] .currentLink,
+[data-color="pink"] .title-style01>h3,
+[data-color="pink"] .style-02 span,
+[data-color="pink"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #ea0253;
+}
+[data-color="pink"] .contact-us a,
+[data-color="pink"] .content-wrap a,
+[data-color="pink"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="pink"] #nav-below-main ul li a:hover,
+[data-color="pink"] #nav-below-main ul li.current-menu-item a,
+[data-color="pink"] a:hover,
+[data-color="pink"] .hour,
+[data-color="pink"] .date,
+[data-color="pink"] .day,
+[data-color="pink"] .time,
+[data-color="pink"] .media-body span,
+[data-color="pink"] .header-logo h1,
+[data-color="pink"] .header-logo h1 a,
+[data-color="pink"] .dropdown-menu a:hover,
+[data-color="pink"] .read-more:hover,
+[data-color="pink"] .blockquote_style01::before,
+[data-color="pink"] .contact-us i,
+[data-color="pink"] .currency h4,
+[data-color="pink"] .square10,
+[data-color="pink"] .square11,
+[data-color="pink"] #cdate,
+[data-color="pink"] .contact-email a,
+[data-color="pink"] .entry-footer span a,
+[data-color="pink"] .ticker-title a,
+[data-color="pink"] .dot,
+[data-color="pink"] .promo-item .promo-content a:hover {
+	color: #ea0253;
+}
+[data-color="pink"] .item .item-content a:hover,
+[data-color="pink"] .item-content p a:hover,
+[data-color="pink"] .events p a:hover,
+[data-color="pink"] .small-gallery .post-content p a:hover,
+[data-color="pink"] .sidebar-block .sidebar-content a:hover,
+[data-color="pink"] .sidebar-post.light p a:hover,
+[data-color="pink"] .list-mark-1 li a:hover,
+[data-color="pink"] .external-link p:hover,
+[data-color="pink"] .container-full .item-content h4 a:hover,
+[data-color="pink"] .contact-formarea input:hover,
+[data-color="pink"] .promo-item .promo-content .read-more:hover,
+[data-color="pink"] .video-promo-item .video-promo-content .read-more:hover {
+	color: #ea0253 !important;
+}
+[data-color="pink"] .main_menu ul > li.current-menu-item > a,
+[data-color="pink"] .main_menu ul > li.current-page-ancestor > a {
+	background-color: #d2014a !important;
+}
+[data-color="pink"] .sponsored:hover,
+[data-color="pink"] .sponsored-big:hover,
+[data-color="pink"] #sidebar-newsletter button:hover,
+[data-color="pink"] .main-menu .nav>li>a:hover,
+[data-color="pink"] .nav .open>a, 
+[data-color="pink"] .nav .open>a:focus,
+[data-color="pink"] .nav .open>a:hover,
+[data-color="pink"] .carousel-title:hover,
+[data-color="pink"] .pagination > .active > a:hover,
+[data-color="pink"] .btn-default:hover,
+[data-color="pink"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="pink"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="pink"] .nav-pills > li.active > a,
+[data-color="pink"] .nav-pills > li.active > a:focus,
+[data-color="pink"] .nav-pills > li.active > a:hover,
+[data-color="pink"] .dropdown-menu > li > a:hover,
+[data-color="pink"] .block-title-1,
+[data-color="pink"] .block-title-2,
+[data-color="pink"] .main_menu ul>li>a:focus,
+[data-color="pink"] .main_menu ul>li>a:hover {
+	color: #fff;
+	background-color: #ec1b64 !important;
+}
+
+/*10.SLATE*/
+
+[data-color="slate"] .main-menu,
+[data-color="slate"] .search-icon-btn,
+[data-color="slate"] .flexslider li h3,
+[data-color="slate"] #sidebar-newsletter button,
+[data-color="slate"] #newsletter button,
+[data-color="slate"] #time,
+[data-color="slate"] .btn-primary:hover,
+[data-color="slate"] .sponsored,
+[data-color="slate"] .sponsored-big,
+[data-color="slate"] .carousel-title,
+[data-color="slate"] .title-left.underline04::before,
+[data-color="slate"] .title-left.underline03::before,
+[data-color="slate"] #nav-below-main ul li a:hover:before,
+[data-color="slate"] #nav-below-main ul li.current-menu-item a:before,
+[data-color="slate"] .btn:hover,
+[data-color="slate"] .btn-info.focus, .btn-info:focus,
+[data-color="slate"] .weather-city,
+[data-color="slate"] .calendar_wrap caption,
+[data-color="slate"] .icon-sub-menu .up-icon,
+[data-color="slate"] .tvbanner-area .bg-1,
+[data-color="slate"].demo-color,
+[data-color="slate"] #footer .widget-title::before,
+[data-color="slate"] .mega-menu-wrapper .widget-title::before,
+[data-color="slate"] .header-search-box,
+[data-color="slate"] .widget-search .search-submit,
+[data-color="slate"] #wprmenu_menu .wprmenu_icon_par.wprmenu_par_opened,
+[data-color="slate"] .bg-1 {
+	background-color: #64666c;
+}
+[data-color="slate"] .breaking-ribbon,
+[data-color="slate"] .title-style05.style-01,
+[data-color="slate"] .btn-default,
+[data-color="slate"] .page-numbers  span.current,
+[data-color="slate"] .read-more:hover:before,
+[data-color="slate"] .play-icon,
+[data-color="slate"] .section-highlighs-wrapper span a,
+[data-color="slate"] .section-header h2::after,
+[data-color="slate"] .section-highlighs-wrapper span a::before,
+[data-color="slate"] .contact-formarea input,
+[data-color="slate"] #sidebar-newsletter .sidebar-newsletter-inner h5,
+[data-color="slate"] #sidebar-newsletter .sidebar-newsletter-inner h5::before,
+[data-color="slate"] .sidebar-social-icons .sidebar-social-icons-inner h5::before,
+[data-color="slate"] .twitter-feed-area .twitter-feed-inner h5,
+[data-color="slate"] .twitter-feed-area .twitter-feed-inner h5::before,
+[data-color="slate"] .container-fluid.header-style-five .main-menu ul.mega-main-menu::before,
+[data-color="slate"] .video-promo-item .section-highlight-inner::before,
+[data-color="slate"] .promo-item .section-highlight-inner a::before,
+[data-color="slate"] .promo-item .section-highlight-inner a,
+[data-color="slate"] .video-promo-item .section-highlight-inner,
+[data-color="slate"] .single input[type=submit]:hover,
+[data-color="slate"] .live-updates .live-title {
+	background-color: #d4000e;
+}
+[data-color="slate"] .title-style02,
+[data-color="slate"] .title-style02-light,
+[data-color="slate"] .blockquote_style02,
+[data-color="slate"] .instagram-content .instagram-subtitle {
+	border-left: 3px solid #64666c;
+}
+[data-color="slate"] .title-style02:dir(rtl),
+[data-color="slate"] .title-style02-light:dir(rtl),
+[data-color="slate"] .blockquote_style02:dir(rtl),
+[data-color="slate"] .instagram-content .instagram-subtitle:dir(rtl) {
+	border-right: 3px solid #64666c;
+}
+[data-color="slate"] .section-highlighs,
+[data-color="slate"] .sidebar-newsletter-form,
+[data-color="slate"] .twitter-feed-wrapper,
+[data-color="slate"] .video-promo-content,
+[data-color="slate"] .promo-content {
+	border-top: 6px solid #64666c !important;
+}
+[data-color="slate"] .post-style-3 .entry-header .entry-title,
+[data-color="slate"] .section-header-left .section-subtitle {
+	border-left: 6px solid #d4000e !important;
+}
+[data-color="slate"] .post-style-3 .entry-header .entry-title:dir(rtl),
+[data-color="slate"] .section-header-left .section-subtitle:dir(rtl) {
+	border-right: 6px solid #d4000e !important;
+}
+[data-color="slate"] .news-gallery-slider .post-content > a {
+	border-left: 2px solid #d4000e !important;
+}
+[data-color="slate"] .news-gallery-slider .post-content > a:dir(rtl) {
+	border-right: 2px solid #d4000e !important;
+}
+[data-color="slate"] .currentLink,
+[data-color="slate"] .title-style01>h3,
+[data-color="slate"] .style-02 span,
+[data-color="slate"] .nav-tabs.nav-tabs-bottom > li.active > a {
+	border-bottom: 2px solid #64666c;
+}
+[data-color="slate"] .contact-us a,
+[data-color="slate"] .content-wrap a,
+[data-color="slate"] #calendar .ui-datepicker-calendar tbody td a.ui-state-highlight,
+[data-color="slate"] #nav-below-main ul li a:hover,
+[data-color="slate"] #nav-below-main ul li.current-menu-item a,
+[data-color="slate"] a:hover,
+[data-color="slate"] .hour,
+[data-color="slate"] .date,
+[data-color="slate"] .day,
+[data-color="slate"] .time,
+[data-color="slate"] .media-body span,
+[data-color="slate"] .header-logo h1,
+[data-color="slate"] .header-logo h1 a,
+[data-color="slate"] .dropdown-menu a:hover,
+[data-color="slate"] .blockquote_style01::before,
+[data-color="slate"] .contact-us i,
+[data-color="slate"] .currency h4,
+[data-color="slate"] .contact-email a,
+[data-color="slate"] .entry-footer span a {
+	color: #64666c;
+}
+[data-color="slate"] .square10,
+[data-color="slate"] .square11,
+[data-color="slate"] .read-more:hover,
+[data-color="slate"] #cdate,
+[data-color="slate"]  .ticker-title a,
+[data-color="slate"] .dot,
+[data-color="slate"] .promo-item .promo-content a:hover {
+	color: #d4000e;
+}
+[data-color="slate"] .item .item-content a:hover,
+[data-color="slate"] .item-content p a:hover,
+[data-color="slate"] .events p a:hover,
+[data-color="slate"] .small-gallery .post-content p a:hover,
+[data-color="slate"] .sidebar-block .sidebar-content a:hover,
+[data-color="slate"] .sidebar-post.light p a:hover,
+[data-color="slate"] .list-mark-1 li a:hover,
+[data-color="slate"] .external-link p:hover,
+[data-color="slate"] .container-full .item-content h4 a:hover,
+[data-color="slate"] .contact-formarea input:hover,
+[data-color="slate"] .promo-item .promo-content .read-more:hover,
+[data-color="slate"] .video-promo-item .video-promo-content .read-more:hover {
+	color: #d4000e !important;
+}
+[data-color="slate"] .main_menu ul > li.current-menu-item > a,
+[data-color="slate"] .main_menu ul > li.current-page-ancestor > a {
+	background-color: #75777c !important;
+}
+[data-color="slate"] .sponsored:hover,
+[data-color="slate"] .sponsored-big:hover,
+[data-color="slate"] #sidebar-newsletter button:hover,
+[data-color="slate"] .main-menu ul>li>a:hover,
+[data-color="slate"] .nav .open>a, 
+[data-color="slate"] .nav .open>a:focus,
+[data-color="slate"] .nav .open>a:hover,
+[data-color="slate"] .carousel-title:hover,
+[data-color="slate"] .pagination > .active > a:hover,
+[data-color="slate"] .btn-default:hover,
+[data-color="slate"] .nav-tabs.nav-tabs-solid > .active > a:focus,
+[data-color="slate"] .nav-tabs.nav-tabs-solid .active a,
+[data-color="slate"] .nav-pills > li.active > a,
+[data-color="slate"] .nav-pills > li.active > a:focus,
+[data-color="slate"] .nav-pills > li.active > a:hover,
+[data-color="slate"] .dropdown-menu > li > a:hover,
+[data-color="slate"] .block-title-1, 
+[data-color="slate"] .block-title-2,
+[data-color="slate"] .main_menu ul>li>a:focus,
+[data-color="slate"] .main_menu ul>li>a:hover {
+	color: #fff;
+	background-color: #53565c !important;
+}
