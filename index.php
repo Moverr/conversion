@@ -80,7 +80,7 @@
 		<div id="mobile-nav-wrapper" class="navbar navbar-default">
 			<div class="mobile-menu-logo">
 									<div class='site-logo'>
-						<a href='index.html' title='Reendex' rel='home'><img src='https://www.newvision.co.ug/_nuxt/img/logo_red.1a0b5c1.svg' alt='Reendex'></a>
+						<a href='#' title='Reendex' rel='home'><img src='https://www.newvision.co.ug/_nuxt/img/logo_red.1a0b5c1.svg' alt='Reendex'></a>
 					</div>
 							</div><!-- /.mobile-menu-logo -->
 					<div id="wprmenu_bar" class="wprmenu_bar navbar navbar-default">
@@ -96,7 +96,7 @@
 			<!-- Begin .mobile-menu-logo -->
 			<div class="mobile-menu-logo">
 									<div class='site-logo'>
-						<a href='index.html' title='Reendex' rel='home'><img src='https://www.newvision.co.ug/_nuxt/img/logo_red.1a0b5c1.svg' alt='Reendex'></a>
+						<a href='#' title='Reendex' rel='home'><img src='https://www.newvision.co.ug/_nuxt/img/logo_red.1a0b5c1.svg' alt='Reendex'></a>
 					</div>
 							</div><!-- /.mobile-menu-logo -->
 			<div class="menu-close">
@@ -150,7 +150,9 @@
 						 
 							
 												 
-							<div class="color-white  weight-800 large-caption">Happening now</div>
+							<div class="color-white  weight-600 large-caption">
+							<img src="Red_circle.gif" width="50px"> Live
+						    </div>
 							<div class="color-white  weight-300 medium-caption">
 								<?php echo $top_story[0]->title; ?></div>
 												 
@@ -173,7 +175,7 @@
                     <div class="ticker-wrap ticker-vticker ticker-style-modern" data-visible="5" data-speed="50000"><div>
                     <?php
 
-$api_url = 'https://api.newvisionapp.com/v1/Articles/GetTrending?limit=10';
+$api_url = 'https://api.newvisionapp.com/v1/Articles?limit=10&publication=newvision';
 
 // Read JSON file
 $latest_news = file_get_contents($api_url);
@@ -264,7 +266,7 @@ foreach ($news_feed as $breaking) {
 						<div class="content">
 						<span class="category-tag bg-5">
 												Primetime News							</span>
-																	<p><?php echo $news_feed[0]->title; ?></p> 
+							<p><?php echo $news_feed[0]->title; ?></p> 
 						</div><!-- /.content -->                                         
 						<img width="590" height="443" src="<?php echo $news_feed[0]->featured_image; ?>" class="attachment-reendex_slider1_thumb_1 size-reendex_slider1_thumb_1 wp-post-image" alt="" />											</a>                                     
 				</div><!-- /.news-slider-layer -->
@@ -296,7 +298,8 @@ foreach ($news_feed as $breaking) {
 						<img width="374" height="215" src="<?php echo $news_feed[3]->featured_image; ?>" class="attachment-reendex_slider1_thumb_3 size-reendex_slider1_thumb_3 wp-post-image" alt="" />											</a>                                     
 				</div><!-- /.news-slider-layer -->
 				</div>					</div><!-- /#news-slider -->
-		</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1494226560475 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">		<div class="section-header-left ">
+		</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1494226560475 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+			<div class="section-header-left ">
 			<h2 class="section-title-left">World News<span class="dot">.</span></h2>
 							<h4 class="section-subtitle">Finding local stories in national and international news isn’t always easy. But many big stories have local angles, and news organizations that make the effort can tell important local stories.</h4>
 					</div><!-- /.section-header-left -->
@@ -321,15 +324,18 @@ foreach ($news_feed as $breaking) {
 						<div class="item-content"> 
 							<div class="title-left title-style04 underline04"> 
 								<h3>
-									<a href="#" target="_self"><?php echo $world_news_feed[0]->title; ?></a>
+									<a href="#" target="_self">
+										<?php echo substr($world_news_feed[0]->title,0,50) . "..."; ?>	
+									</a>
 								</h3> 
 							</div><!-- /.title-left -->									<div class="date"><a href="#" target="_self">
 								<i class="fa fa-clock-o"></i>
 								<span class="day"><strong>Aug 29, 2022</strong></span>
 							</a>
 							</div>
-							<a class="external-link" target="_self" href="migrant-crisis-latest-news-pictures-and-updates/index.html"><p><?php echo $world_news_feed[0]->summary; ?></p>
-                            <!-- <p>The U.N. says the mass return of refugees to a third country would.</p> --></a><div>
+							<a class="external-link" target="_self" href="#">
+								<p><?php echo substr($world_news_feed[0]->summary,0,100) . "..."; ?></p>
+                            </a><div>
 							<a href="#" target="_self">
 							<span class="read-more">Read more</span>
 									</a>
@@ -354,14 +360,14 @@ foreach ($news_feed as $breaking) {
 						<div class="item-content"> 
 							<div class="title-left title-style04 underline04"> 
 								<h3>
-									<a href="#" target="_self"><?php echo $world_news_feed[1]->title; ?></a>
+									<a href="#" target="_self"><?php echo substr($world_news_feed[1]->title,0,50) . "..."; ?></a>
 								</h3> 
 							</div><!-- /.title-left -->									<div class="date"><a href="#" target="_self">
 								<i class="fa fa-clock-o"></i>
 								<span class="day"><strong>Aug 29, 2022</strong></span>
 							</a>
 							</div>
-							<a class="external-link" target="_self" href="migrant-crisis-latest-news-pictures-and-updates/index.html"><p><?php echo $world_news_feed[1]->summary; ?></p>
+							<a class="external-link" target="_self" href="migrant-crisis-latest-news-pictures-and-updates/index.html"><p><?php echo substr($world_news_feed[1]->summary,0,100) . "..."; ?></p>
                             <!-- <p>The U.N. says the mass return of refugees to a third country would.</p> --></a><div>
 							<a href="#" target="_self">
 							<span class="read-more">Read more</span>
@@ -390,14 +396,14 @@ foreach ($news_feed as $breaking) {
 						<div class="item-content"> 
 							<div class="title-left title-style04 underline04"> 
 								<h3>
-									<a href="#" target="_self"><?php echo $world_news_feed[2]->title; ?></a>
+									<a href="#" target="_self"><?php echo substr($world_news_feed[2]->title,0,50) . "..."; ?></a>
 								</h3> 
 							</div><!-- /.title-left -->									<div class="date"><a href="#" target="_self">
 								<i class="fa fa-clock-o"></i>
 								<span class="day"><strong>Aug 29, 2022</strong></span>
 							</a>
 							</div>
-							<a class="external-link" target="_self" href="migrant-crisis-latest-news-pictures-and-updates/index.html"><p><?php echo $world_news_feed[2]->summary; ?></p>
+							<a class="external-link" target="_self" href="migrant-crisis-latest-news-pictures-and-updates/index.html"><p><?php echo substr($world_news_feed[2]->summary,0,100) . "..."; ?></p>
                             <!-- <p>The U.N. says the mass return of refugees to a third country would.</p> --></a><div>
 							<a href="#" target="_self">
 							<span class="read-more">Read more</span>
@@ -423,15 +429,15 @@ foreach ($news_feed as $breaking) {
 						<div class="item-content"> 
 							<div class="title-left title-style04 underline04"> 
 								<h3>
-									<a href="#" target="_self"><?php echo $world_news_feed[3]->title; ?></a>
+									<a href="#" target="_self"><?php echo substr($world_news_feed[3]->title,0,50) . "..."; ?></a>
 								</h3> 
 							</div><!-- /.title-left -->									<div class="date"><a href="#" target="_self">
 								<i class="fa fa-clock-o"></i>
 								<span class="day"><strong>Aug 29, 2022</strong></span>
 							</a>
 							</div>
-							<a class="external-link" target="_self" href="migrant-crisis-latest-news-pictures-and-updates/index.html"><p><?php echo $world_news_feed[3]->summary; ?></p>
-                            <!-- <p>The U.N. says the mass return of refugees to a third country would.</p> --></a><div>
+							<a class="external-link" target="_self" href="#"><p><?php echo substr($world_news_feed[3]->summary,0,100) . "..."; ?></p>
+                            </a><div>
 							<a href="#" target="_self">
 							<span class="read-more">Read more</span>
 									</a>
@@ -2367,7 +2373,8 @@ foreach ($news_feed as $breaking) {
 						<div class="item-content">
 							<i class="fa fa-clock-o"></i>
 								<span class="day">29 Aug</span>
-								<p><a href="#" target="_self"><?php echo substr($supplements_feed[3]->title,0,60) . "..."; ?></a>
+								<p><a href="#" target="_self">
+					<?php echo substr($supplements_feed[3]->title,0,60) . "..."; ?></a>
 								</p>
 						</div><!-- /.item-content -->                                              
 					</div><!-- /.item-block -->
